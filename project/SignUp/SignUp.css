@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("backimg.jpg");
+    height: 300px;
+}
+.container{
+    margin: 0px auto;
+    margin-top: 100px;
+    width: 1440px;
+    height: 1000px;
+}
+.id_pw{
+    margin: 0px auto;
+    text-align: center;
+    width: 720px;
+    height: 700px;
+    background-color: white;
+}
+.star{
+    color: red;
+}
+#h4_1{
+    margin-right: 390px;
+    padding-top: 50px;
+}
+#id{
+    width: 450px;
+    height: 40px;
+    outline: 0px;
+    margin: 5px 10px 30px 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+#h4_2{
+    margin-right: 370px;
+}
+#pw{
+    width: 450px;
+    height: 40px;
+    outline: 0px;
+    margin: 5px 10px 30px 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+#h4_3{
+    margin-left: 10px;
+    margin-right: 330px;
+}
+#re_pw{
+    width: 450px;
+    height: 40px;
+    outline: 0px;
+    margin: 5px 10px 30px 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+#h4_4{
+    margin-right: 360px;
+}
+#email{
+    width: 310px;
+    height: 40px;
+    outline: 0px;
+    margin: 5px 10px 30px 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+#choose_email{
+    height: 40px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+#h4_5{
+    margin-right: 370px;
+}
+#choose_number{
+    width: 60px;
+    height: 40px;
+    font-size: 15px;
+    margin: 5px 10px 30px 10px;
+    padding-left: 5px;
+}
+#num1{
+    width: 100px;
+    height: 40px;
+    outline: 0px;
+    font-size: 17px;
+    text-align: center;
+}
+#num2{
+    width: 100px;
+    height: 40px;
+    outline: 0px;
+    font-size: 17px;
+    text-align: center;
+    margin-right: 150px;
+}
